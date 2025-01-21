@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.gildedrose.GildedRoseTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.052 s <<< FAILURE! - in com.gildedrose.GildedRoseTest
+com.gildedrose.GildedRoseTest.foo  Time elapsed: 0.029 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <fixme> but was: <foo>
+	at com.gildedrose.GildedRoseTest.foo(GildedRoseTest.java:14)
+
